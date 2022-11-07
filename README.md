@@ -1,4 +1,4 @@
-[![Header](https://www.creative-tim.com/blog/content/images/size/w1140/2021/08/rebranding-post--1-.jpg "Header")](https://www.creative-tim.com/)
+[![Header](https://images.pexels.com/photos/270348/pexels-photo-270348.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1 "Header")](https://github.com/AdriCQ)
 
 Hola ✋!  
 Soy [Adrian Capote Quintana](https://github.com/AdriCQ/). Soy desarrollador web, amante del Software Libre. Me apasiona programar, superarme y aprender en cada proyecto que desarrollo. Me gusta el trabajo en equipo, crear buenas relaciones com mis compañeros y divertirme mientras desarrollo aplicaciones.
@@ -6,15 +6,17 @@ Soy [Adrian Capote Quintana](https://github.com/AdriCQ/). Soy desarrollador web,
 
 ## Tecnologías
 <p>
-  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/vue.jpg" width="67.5px" />
-  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/angular.jpg" width="67.5px" />
-  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/react.jpg" width="67.5px" />
-  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/bootstrap.jpg" width="67.5px" />
-  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/sass.jpg" width="67.5px" />
-  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/ps.jpg" width="67.5px" />
-  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/sketch.jpg" width="67.5px" />
-  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/figma.jpg" width="67.5px" />
-  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/icon-laravel.jpg" width="67.5px" />
+  <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="67.5px" />
+  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" width="67.5px" />
+  <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" width="67.5px" />
+  <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" width="67.5px" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="67.5px" />
+  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" width="67.5px" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="67.5px" />
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="67.5px" />
+  <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" width="67.5px" />
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="67.5px" />
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="67.5px" />
 </p>
 Soy desarrollador Fullstack con experiencia en el uso de varios frameworks tanto de fron-tend como back-end
 
@@ -41,27 +43,6 @@ EnTuKsa | Aplicación Móvil para conectar proveedores con clientes | [Visitar](
 Café Guhamuaya | Sitio web de PDL Ruta del Café Guhamuaya | [Visitar](https://www.servimav.com)| [Visitar](https://rentas.palrey.com)
 Map-Dist | Sistema de distribución de elementos en Mapa | Repo | -
 
-
-## Our courses
-
-**Text courses:**
-
-- [How to quickstart and launch your website using Jekyll?](https://www.creative-tim.com/blog/webdesign/quickstart-launch-website-using-jekyll)
-- [How to create Scrolling Transformations for your React App?](https://www.creative-tim.com/blog/webdesign/create-scrolling-transformations-react-app)
-- [How to create a single-page application using React?](https://www.creative-tim.com/blog/react/create-single-page-application-using-react)
-
-**Video courses:**
-
-|[![How to use React with Firebase and Redux: Introduction](https://img.youtube.com/vi/BMPHfnAA9iI/mqdefault.jpg)](https://www.creative-tim.com/courses "How to use React with Firebase and Redux: Introduction")|[![ReactJS and Redux Tutorial with real-life examples](https://img.youtube.com/vi/raKV5Rb8oOM/mqdefault.jpg)](https://www.creative-tim.com/courses "ReactJS and Redux Tutorial with real-life examples")|[![Responsive Admin Template using Light Bootstrap Dashboard](https://img.youtube.com/vi/vt5hemH8I9w/mqdefault.jpg)](https://www.creative-tim.com/courses "Responsive Admin Template using Light Bootstrap Dashboard")
-|:--:|:--:|:--:|
-|How to use React with Firebase and Redux: Introduction|ReactJS and Redux Tutorial with real-life examples|Responsive Admin Template using Light Bootstrap Dashboard|
-
-
 ## Contáctame
 
-[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/creativetimofficial) [<img alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/CreativeTim) [<img alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w) <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-
-<p align="center"> © 2021 Creative Tim, all rights reserved. Made with ❤️ for a better web. </p>
-<p align="center">
-https://www.creative-tim.com
-</p>
+[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/AdriCQ) [<img alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/CreativeTim) [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:adrian.capote95@gmail.com)
