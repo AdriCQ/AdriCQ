@@ -35,14 +35,17 @@ Soy desarrollador Fullstack con experiencia en el uso de varios frameworks tanto
 
 Nombre | Descripción | Repo | URL 
 -------------- | ----------------- | -------------------- | -------------- 
-BACS | Sistema de control de acceso | [Visitar](https://github.com) | [Demo](https://github.com)
-Servimav | Sitio web oficial de Pyme Servimav S.R.L | [Visitar](https://www.servimav.com)| [Visitar](https://www.servimav.com)
-Rentas PalRey | Rentas de habitaciones en Cancún México | [Visitar](https://www.servimav.com)| [Visitar](https://rentas.palrey.com)
-Mis Rentas PalRey | Administración de Rentas | [Visitar](https://www.servimav.com)| [Visitar](https://rentas.palrey.com)
-EnTuKsa | Aplicación Móvil para conectar proveedores con clientes | [Visitar](https://www.servimav.com)| [Visitar](https://rentas.palrey.com)
-Café Guhamuaya | Sitio web de PDL Ruta del Café Guhamuaya | [Visitar](https://www.servimav.com)| [Visitar](https://rentas.palrey.com)
-Map-Dist | Sistema de distribución de elementos en Mapa | Repo | -
+Ally | Gestor de Enlaces | [Repo](https://github.com/servimav/ally) | [Demo](https://ally.servimav.com)
+Sherklock Tracking  | Gestor de Rastreo | [Repo](https://github.com/AdriCQ/sherlock-godjango) | [Demo](https://godjango.servimav.com)
+E-Commerce Restaurant | E-Commerce para restaurant | [Repo](https://github.com/AdriCQ/ecommerce_laravel_blade) | ---
+BACS | Sistema de control de acceso | --- |  ---
+Servimav | Sitio web oficial de Pyme Servimav S.R.L | [Repo](https://github.com/servimav/servimav) | [Visitar](https://www.servimav.com)
+Rentas PalRey | Rentas de habitaciones en Cancún México | --- | [Visitar](https://rentas.palrey.com)
+Admin Rentas | Administración de Rentas | --- | [Visitar](https://mis-rentas.palrey.com)
+Wings Shop | Aplicación Móvil para conectar proveedores con clientes | [Repo](https://github.com/servimav/wings-shop-app)| [Visitar](https://wings.servimav.com)
+Café Guhamuaya | Sitio web de PDL Ruta del Café Guhamuaya |  --- |  ---
+Map-Dist | Sistema de distribución de elementos en Mapa | --- | -
 
 ## Contáctame
 
-[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/AdriCQ) [<img alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/CreativeTim) [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:adrian.capote95@gmail.com)
+[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/AdriCQ) [<img alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/AdriCQ95) [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:adriancapote95@gmail.com)
