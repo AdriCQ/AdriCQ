@@ -1,7 +1,4 @@
-<img src="https://www.servimav.com/assets/images/adricq.jpg" style="max-width:20rem; min-width: 10rem"></td>
-   
-
-		
+	
 # Adrian Capote Quintana
 ## About Me
 
