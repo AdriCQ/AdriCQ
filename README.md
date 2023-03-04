@@ -13,7 +13,7 @@ Hello. My name is [Adrian Capote Quintana](https://github.com/AdriCQ/). I am a T
 
 I am a full-stack developer with experience in the use of various frameworks and technologies
 
-- VueJs ecosystem (Vuetify, Pinia, Quasar, NuxtJs) to develop SPA, PWA, SSR and SSG. <img alt="vue" style="height:1.2rem" src="https://img.shields.io/static/v1?label=&message=Excelent&color=success" />
+- VueJs ecosystem to develop SPA, PWA, SSR and SSG. <img alt="vue" style="height:1.2rem" src="https://img.shields.io/static/v1?label=&message=Excelent&color=success" />
 - Typescript <img alt="vue" style="height:1.2rem" src="https://img.shields.io/static/v1?label=&message=Excelent&color=success" />
 - Laravel REST APIs <img alt="Laravel" style="height:1.2rem" src="https://img.shields.io/static/v1?label=&message=Very Good&color=success" />
 - Ionic/Capacitor <img alt="ionic" style="height:1.2rem" src="https://img.shields.io/static/v1?label=&message=Good&color=green" />
