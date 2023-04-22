@@ -1,5 +1,5 @@
-	
 # Adrian Capote Quintana
+
 ## About Me
 
 Hello. My name is [Adrian Capote Quintana](https://github.com/AdriCQ/). I am a Telecommunications and Electronics Engineer. I am a self-taught fullstack web developer. I am passionate about programming, improving myself and learning in each project I develop. I like teamwork, facing challenges that require improving my skills and having fun coding.
@@ -7,7 +7,6 @@ Hello. My name is [Adrian Capote Quintana](https://github.com/AdriCQ/). I am a T
 ## Contact
 
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/AdriCQ) [<img alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/AdriCQ95) [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:adriancapote95@gmail.com)[<img alt="Gmail" src="https://img.shields.io/badge/Telegram-%231DA1F2.svg?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/AdriCQ)
-
 
 ## Skills
 
@@ -20,8 +19,8 @@ I am a full-stack developer with experience in the use of various frameworks and
 - Version control <img alt="git" style="height:1.2rem" src="https://img.shields.io/static/v1?label=&message=Good&color=green" />
 - Bootstrap <img alt="Bootstrap" style="height:1.2rem" src="https://img.shields.io/static/v1?label=&message=Good&color=green" />
 - TailwindsCSS <img alt="Bootstrap" style="height:1.2rem" src="https://img.shields.io/static/v1?label=&message=Good&color=green" />
-- ReactJS  <img alt="react" style="height:1.2rem" src="https://img.shields.io/static/v1?label=&message=Normal&color=yellow" />
-- React-Native  <img alt="react" style="height:1.2rem" src="https://img.shields.io/static/v1?label=&message=Learning&color=yellow" />
+- ReactJS <img alt="react" style="height:1.2rem" src="https://img.shields.io/static/v1?label=&message=Normal&color=yellow" />
+- React-Native <img alt="react" style="height:1.2rem" src="https://img.shields.io/static/v1?label=&message=Learning&color=yellow" />
 - Relational Databases (MySQL, MariaDB, PostgreSQL)
 
 <p>
@@ -37,36 +36,39 @@ I am a full-stack developer with experience in the use of various frameworks and
   <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="67.5px" />
 </p>
 
-
 ## Work Experience
 
 ### [Godjango Dev](https://www.godjango.dev/)
 
-Project | Description | Role | URL 
--------------- | ----------------- | -------------------- | -------------- 
-Sherklock Tracking  | Tracking system | Fullstack developer | [Sherlock](https://godjango.servimav.com)
-E-Commerce Restaurant | Restaurant custom e-commerce | Fullstack developer | ---
+| Project               | Description                  | Role                | URL                                       |
+| --------------------- | ---------------------------- | ------------------- | ----------------------------------------- |
+| Sherklock Tracking    | Tracking system              | Fullstack developer | [Sherlock](https://godjango.servimav.com) |
+| E-Commerce Restaurant | Restaurant custom e-commerce | Fullstack developer | ---                                       |
 
 ### [Servimav SRL](https://www.servimav.com)
-Project | Description | Role | URL 
--------------- | ----------------- | -------------------- | -------------- 
-Ally | Personal Links Manager | Fullstack developer | [Ally](https://ally.servimav.com)
-BACS | Access Control System | Backend Developer |  ---
-Servimav | Official website Servimav S.R.L | Front-end developer | [Servimav](https://www.servimav.com)
-Wings Shop | Mobile application to connect suppliers with clients | Fullstack developer | [Wings](https://wings.servimav.com)
-Café Guhamuaya | Sitio web de PDL Ruta del Café Guhamuaya |  --- |  ---
+
+| Project        | Description                                          | Role                | URL                                  |
+| -------------- | ---------------------------------------------------- | ------------------- | ------------------------------------ |
+| Ally           | Personal Links Manager                               | Fullstack developer | [Ally](https://ally.servimav.com)    |
+| BACS           | Access Control System                                | Backend Developer   | ---                                  |
+| Servimav       | Official website Servimav S.R.L                      | Front-end developer | [Servimav](https://www.servimav.com) |
+| Wings Shop     | Mobile application to connect suppliers with clients | Fullstack developer | [Wings](https://wings.servimav.com)  |
+| Café Guhamuaya | Sitio web de PDL Ruta del Café Guhamuaya             | ---                 | ---                                  |
 
 ### [PalRey](https://mis-rentas.palrey.com)
-Project | Description | Role | URL 
--------------- | ----------------- | -------------------- | --------------
-Rentas PalRey | Room rentals in Cancun México | Fullstack developer | [Rentas](https://rentas.palrey.com)
-Rentas Manager | Room Rentals Manager | Fullstack developer | [Manager](https://mis-rentas.palrey.com)
-Map-Dist | Map elements distribution | Front end developer | ---
+
+| Project        | Description                   | Role                | URL                                      |
+| -------------- | ----------------------------- | ------------------- | ---------------------------------------- |
+| Rentas PalRey  | Room rentals in Cancun México | Fullstack developer | [Rentas](https://rentas.palrey.com)      |
+| Rentas Manager | Room Rentals Manager          | Fullstack developer | [Manager](https://mis-rentas.palrey.com) |
+| Map-Dist       | Map elements distribution     | Front end developer | ---                                      |
 
 ### [Calaverita](https://calaverita.tech)
-Project | Description | Role | URL 
--------------- | ----------------- | -------------------- | --------------
-Nuske | Pet clinic management | Consultant | [Nuske](https://nuske.terio.xyz)
+
+| Project | Description                | Role               | URL                                |
+| ------- | -------------------------- | ------------------ | ---------------------------------- |
+| Nuske   | Pet clinic management      | Consultant         | [Nuske](https://nuske.terio.xyz)   |
+| 24Link  | Mobile-only Drinkstore PWA | Frontend Developer | [24Link](https://24link.terio.xyz) |
 
 ## Education
 
