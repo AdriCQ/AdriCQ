@@ -42,17 +42,17 @@ I am a full-stack developer with experience in the use of various frameworks and
 
 | Project               | Description                  | Role                | URL                                       |
 | --------------------- | ---------------------------- | ------------------- | ----------------------------------------- |
-| Sherklock Tracking    | Tracking system              | Fullstack developer | [Sherlock](https://godjango.servimav.com) |
+| Sherklock Tracking    | Tracking system              | Fullstack developer | --- |
 | E-Commerce Restaurant | Restaurant custom e-commerce | Fullstack developer | ---                                       |
 
 ### [Servimav SRL](https://www.servimav.com)
 
 | Project        | Description                                          | Role                | URL                                  |
 | -------------- | ---------------------------------------------------- | ------------------- | ------------------------------------ |
-| Ally           | Personal Links Manager                               | Fullstack developer | [Ally](https://ally.servimav.com)    |
+| Ally           | Personal Links Manager                               | Fullstack developer | ---    |
 | BACS           | Access Control System                                | Backend Developer   | ---                                  |
 | Servimav       | Official website Servimav S.R.L                      | Front-end developer | [Servimav](https://www.servimav.com) |
-| Wings Shop     | Mobile application to connect suppliers with clients | Fullstack developer | [Wings](https://wings.servimav.com)  |
+| Wings Shop     | Mobile application to connect suppliers with clients | Fullstack developer |  ---  |
 | Café Guhamuaya | Sitio web de PDL Ruta del Café Guhamuaya             | ---                 | ---                                  |
 
 ### [PalRey](https://mis-rentas.palrey.com)
