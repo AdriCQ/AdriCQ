@@ -31,6 +31,7 @@ I am a full-stack developer with experience in the use of various frameworks and
   <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" width="67.5px" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="67.5px" />
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="67.5px" />
+  <img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" width="67.5px" />
   <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" width="67.5px" />
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="67.5px" />
   <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="67.5px" />
@@ -52,7 +53,7 @@ I am a full-stack developer with experience in the use of various frameworks and
 | Ally           | Personal Links Manager                               | Fullstack developer | ---    |
 | BACS           | Access Control System                                | Backend Developer   | ---                                  |
 | Servimav       | Official website Servimav S.R.L                      | Front-end developer | [Servimav](https://www.servimav.com) |
-| Wings Shop     | Mobile application to connect suppliers with clients | Fullstack developer |  ---  |
+| Wings Shop     | Mobile application to connect suppliers with clients | Fullstack developer |  [Wings](https://wings.servimav.com)  |
 | Café Guhamuaya | Sitio web de PDL Ruta del Café Guhamuaya             | ---                 | ---                                  |
 
 ### [PalRey](https://mis-rentas.palrey.com)
@@ -61,14 +62,23 @@ I am a full-stack developer with experience in the use of various frameworks and
 | -------------- | ----------------------------- | ------------------- | ---------------------------------------- |
 | Rentas PalRey  | Room rentals in Cancun México | Fullstack developer | [Rentas](https://rentas.palrey.com)      |
 | Rentas Manager | Room Rentals Manager          | Fullstack developer | [Manager](https://mis-rentas.palrey.com) |
-| Map-Dist       | Map elements distribution     | Front end developer | ---                                      |
+| Map-Dist       | Map elements distribution     | Front end developer | ---     
+
+### [PerlaTech SRL](https://www.perlatec.tech)
+
+| Project        | Description                   | Role                | URL                                      |
+| -------------- | ----------------------------- | ------------------- | ---------------------------------------- |
+| AndaSun | Travel website and Mobile Application | Backend developer | [Andasun](https://andasun.perlatec.tech)      |---                                      |
 
 ### [Calaverita](https://calaverita.tech)
 
 | Project | Description                | Role               | URL                                |
 | ------- | -------------------------- | ------------------ | ---------------------------------- |
 | Nuske   | Pet clinic management      | Consultant         | [Nuske](https://nuske.terio.xyz)   |
-| 24Link  | Mobile-only Drinkstore PWA | Frontend Developer | [24Link](https://24link.terio.xyz) |
+| 24Link  | Mobile-only Drinkstore PWA/Android | Frontend Developer | [24Link](https://24link.terio.xyz) |
+| PGS  | Mobile-only PWA/Android | Frontend Developer | [PGS](https://pgs.terio.xyz) |
+| Image-Uploader  | Image manipulation service | Laravel Developer | - |
+| Funticket  | Concerts ticket sales | Fullstack Developer | [Funticket](https://funticket.mx) |
 
 ## Education
 
