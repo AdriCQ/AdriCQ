@@ -12,21 +12,30 @@ Hello. My name is [Adrian Capote Quintana](https://github.com/AdriCQ/). I am a T
 
 I am a full-stack developer with experience in the use of various frameworks and technologies
 
-- VueJs ecosystem to develop SPA, PWA, SSR and SSG. <img alt="vue" style="height:1.2rem" src="https://img.shields.io/static/v1?label=&message=Excelent&color=success" />
 
-- Laravel REST APIs <img alt="Laravel" style="height:1.2rem" src="https://img.shields.io/static/v1?label=&message=Excelent&color=success" />
+### Frameworks & Languages
+
+- VueJs ecosystem to develop SPA, PWA, SSR and SSG. <img alt="vue" style="height:1.2rem" src="https://img.shields.io/static/v1?label=&message=Excelent&color=success" />
+- Laravel <img alt="Laravel" style="height:1.2rem" src="https://img.shields.io/static/v1?label=&message=Excelent&color=success" />
+- NestJS <img alt="NestJS" style="height:1.2rem" src="https://img.shields.io/static/v1?label=&message=Excelent&color=success" />
 - Typescript <img alt="vue" style="height:1.2rem" src="https://img.shields.io/static/v1?label=&message=Excelent&color=success" />
-- TailwindsCSS <img alt="Bootstrap" style="height:1.2rem" src="https://img.shields.io/static/v1?label=&message=Very Good&color=success" />
-- Ionic/Capacitor <img alt="ionic" style="height:1.2rem" src="https://img.shields.io/static/v1?label=&message=Very Good&color=green" />
-- Version control <img alt="git" style="height:1.2rem" src="https://img.shields.io/static/v1?label=&message=Good&color=green" />
+- TailwindCSS <img alt="Bootstrap" style="height:1.2rem" src="https://img.shields.io/static/v1?label=&message=Very Good&color=success" />
+- Ionic/Capacitor <img alt="ionic" style="height:1.2rem" src="https://img.shields.io/static/v1?label=&message=Very Good&color=success" />
 - Bootstrap <img alt="Bootstrap" style="height:1.2rem" src="https://img.shields.io/static/v1?label=&message=Good&color=green" />
 - ReactJS <img alt="react" style="height:1.2rem" src="https://img.shields.io/static/v1?label=&message=Normal&color=yellow" />
 - React-Native <img alt="react" style="height:1.2rem" src="https://img.shields.io/static/v1?label=&message=Learning&color=yellow" />
-- Relational Databases (MySQL, MariaDB, PostgreSQL)
+
+### Technical Skills
+- Clean Code <img alt="git" style="height:1.2rem" src="https://img.shields.io/static/v1?label=&message=Very Good&color=success" />
+- Version control <img alt="git" style="height:1.2rem" src="https://img.shields.io/static/v1?label=&message=Very Good&color=success" />
+- Containerization <img alt="git" style="height:1.2rem" src="https://img.shields.io/static/v1?label=&message=Good&color=green" />
+- Relational Databases (MySQL, MariaDB, PostgreSQL) <img alt="Bootstrap" style="height:1.2rem" src="https://img.shields.io/static/v1?label=&message=Good&color=green" />
+- Microservices <img alt="git" style="height:1.2rem" src="https://img.shields.io/static/v1?label=&message=Good&color=green" />
 
 <p>
   <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="67.5px" />
-  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" width="67.5px" />
+  <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" width="67.5px" />
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="67.5px" />
   <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" width="67.5px" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="67.5px" />
   <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" width="67.5px" />
@@ -53,8 +62,8 @@ I am a full-stack developer with experience in the use of various frameworks and
 | -------------- | ---------------------------------------------------- | ------------------- | ------------------------------------ |
 | Ally           | Personal Links Manager                               | Fullstack developer | ---    |
 | BACS           | Access Control System                                | Backend Developer   | ---                                  |
-| Servimav       | Official website Servimav S.R.L                      | Front-end developer | [Servimav](https://www.servimav.com) |
-| Wings Shop     | Mobile application to connect suppliers with clients | Fullstack developer |  [Wings](https://wings.servimav.com)  |
+| Servimav       | Official website Servimav S.R.L                      | Front-end developer | [Servimav](https://www.servimav.com) (Maintenance) |
+| Wings Shop     | Mobile application to connect suppliers with clients | Fullstack developer |  ---  |
 | Café Guhamuaya | Sitio web de PDL Ruta del Café Guhamuaya             | ---                 | ---                                  |
 
 ### [PalRey](https://mis-rentas.palrey.com)
@@ -70,6 +79,7 @@ I am a full-stack developer with experience in the use of various frameworks and
 | Project        | Description                   | Role                | URL                                      |
 | -------------- | ----------------------------- | ------------------- | ---------------------------------------- |
 | AndaSun | Travel website and Mobile Application | Backend developer | [Andasun](https://andasun.perlatec.tech)      |---                                      |
+| Palgao | Marketplace | Backend & DevOps | [Palgao](https://dev.palgao.com)      |---                                      |
 
 ### [Calaverita](https://calaverita.tech)
 
