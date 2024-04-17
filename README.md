@@ -32,6 +32,7 @@ I am a full-stack developer with experience in the use of various frameworks and
 - Relational Databases (MySQL, MariaDB, PostgreSQL) <img alt="Bootstrap" style="height:1.2rem" src="https://img.shields.io/static/v1?label=&message=Good&color=green" />
 - Microservices <img alt="git" style="height:1.2rem" src="https://img.shields.io/static/v1?label=&message=Good&color=green" />
 
+
 <p>
   <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="67.5px" />
   <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" width="67.5px" />
@@ -46,6 +47,11 @@ I am a full-stack developer with experience in the use of various frameworks and
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="67.5px" />
   <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="67.5px" />
 </p>
+
+
+### Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdriCQ&size_weight=0.5&count_weight=0.5&layout=compact&title_color=42b883)](https://github.com/dcq-31)
 
 ## Work Experience
 
