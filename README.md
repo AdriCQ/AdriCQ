@@ -51,43 +51,25 @@ I am a full-stack developer with experience in the use of various frameworks and
 
 ### Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdriCQ&size_weight=0.5&count_weight=0.5&layout=compact&title_color=42b883)](https://github.com/dcq-31)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdriCQ&size_weight=0.5&count_weight=0.5&layout=compact&title_color=42b883)](https://github.com/AdriCQ)
+============
 
-## Work Experience
 
-### [Godjango Dev](https://www.godjango.dev/)
+Education
+---------
 
-| Project               | Description                  | Role                | URL                                       |
-| --------------------- | ---------------------------- | ------------------- | ----------------------------------------- |
-| Sherklock Tracking    | Tracking system              | Fullstack developer | --- |
-| E-Commerce Restaurant | Restaurant custom e-commerce | Fullstack developer | ---                                       |
+2014-2019
+:   **Bachelor in Telecommunications and Electronics**;  Universidad Central Marta Abreu de las Villas
 
-### [Servimav SRL](https://www.servimav.com)
 
-| Project        | Description                                          | Role                | URL                                  |
-| -------------- | ---------------------------------------------------- | ------------------- | ------------------------------------ |
-| Ally           | Personal Links Manager                               | Fullstack developer | ---    |
-| BACS           | Access Control System                                | Backend Developer   | ---                                  |
-| Servimav       | Official website Servimav S.R.L                      | Front-end developer | [Servimav](https://www.servimav.com) (Maintenance) |
-| Wings Shop     | Mobile application to connect suppliers with clients | Fullstack developer |  ---  |
-| Café Guhamuaya | Sitio web de PDL Ruta del Café Guhamuaya             | ---                 | ---                                  |
+Experience
+-----
 
-### [PalRey](https://mis-rentas.palrey.com)
 
-| Project        | Description                   | Role                | URL                                      |
-| -------------- | ----------------------------- | ------------------- | ---------------------------------------- |
-| Rentas PalRey  | Room rentals in Cancun México | Fullstack developer | [Rentas](https://rentas.palrey.com)      |
-| Rentas Manager | Room Rentals Manager          | Fullstack developer | [Manager](https://mis-rentas.palrey.com) |
-| Map-Dist       | Map elements distribution     | Front end developer | ---     
+### Fullstack Web Developer - [Calaverita](https://calaverita.tech)
 
-### [PerlaTech SRL](https://www.perlatec.tech)
+I work as a Full-Stack Web Developer with proficiency in Vue.js, React.js, Next.js, PHP, Node.js and Laravel. My role involves designing and implementing dynamic user interfaces, developing scalable APIs, and managing the overall architecture of web applications
 
-| Project        | Description                   | Role                | URL                                      |
-| -------------- | ----------------------------- | ------------------- | ---------------------------------------- |
-| AndaSun | Travel website and Mobile Application | Backend developer | [Andasun](https://andasun.perlatec.tech)      |---                                      |
-| Palgao | Marketplace | Backend & DevOps | [Palgao](https://dev.palgao.com)      |---                                      |
-
-### [Calaverita](https://calaverita.tech)
 
 | Project | Description                | Role               | URL                                |
 | ------- | -------------------------- | ------------------ | ---------------------------------- |
@@ -97,6 +79,52 @@ I am a full-stack developer with experience in the use of various frameworks and
 | Image-Uploader  | Image manipulation service | Laravel Developer | - |
 | Funticket  | Concerts ticket sales | Fullstack Developer | [Funticket](https://funticket.mx) |
 
-## Education
+-----
 
-(2014-2019) Bachelor in Telecommunications and Electronics Engineering at [Universidad Marta Abreu de las Villas](https://uclv.cu)
+
+### Web Developer / DevOps / Consultant - [Servimav SRL](https://www.servimav.com)
+
+I work as a consultant, Full-Stack Developer, and DevOps specialist. In my role, I provide strategic guidance, design and develop full-stack web applications using technologies like Vue.js, React.js, Node.js, and Laravel, and implement DevOps practices to automate deployment, monitoring, and infrastructure management.
+
+
+| Project        | Description                                          | Role                | URL                                  |
+| -------------- | ---------------------------------------------------- | ------------------- | ------------------------------------ |
+| Ally           | Personal Links Manager                               | Fullstack developer | ---    |
+| BACS           | Access Control System                                | Backend Developer   | ---                                  |
+| Servimav       | Official website Servimav S.R.L                      | Front-end developer | [Servimav](https://www.servimav.com) (Maintenance) |
+| Wings Shop     | Mobile application to connect suppliers with clients | Fullstack developer |  ---  |
+| Café Guhamuaya | Sitio web de PDL Ruta del Café Guhamuaya             | ---                 | ---                                  |
+
+----
+
+
+### Backend Developer - [PerlaTech SRL](https://www.perlatec.tech)
+
+I specialize in Backend Web Development using Laravel, a powerful PHP framework. My role involves designing efficient backend systems, managing databases, and developing RESTful APIs for seamless communication with the frontend. I prioritize security, implement best practices, and collaborate closely with team members to deliver scalable and secure web applications.
+
+| Project        | Description                   | Role                | URL                                      |
+| -------------- | ----------------------------- | ------------------- | ---------------------------------------- |
+| AndaSun | Travel website and Mobile Application | Backend developer | [Andasun](https://andasun.perlatec.tech)      |---                                      |
+| Palgao | Marketplace | Backend & DevOps | [Palgao](https://dev.palgao.com)      |--- 
+
+-----
+
+
+### Web Developer - [PalRey](https://mis-rentas.palrey.com)
+I work as a Laravel Developer, specializing in building robust and efficient backend systems using the Laravel PHP framework. My responsibilities include designing and implementing secure APIs, optimizing database performance, and collaborating with frontend developers to deliver high-quality web applications.
+
+
+| Project        | Description                   | Role                | URL                                      |
+| -------------- | ----------------------------- | ------------------- | ---------------------------------------- |
+| Rentas PalRey  | Room rentals in Cancun México | Fullstack developer | [Rentas](https://rentas.palrey.com)      |
+| Rentas Manager | Room Rentals Manager          | Fullstack developer | [Manager](https://mis-rentas.palrey.com) |
+| Map-Dist       | Map elements distribution     | Front end developer | ---     
+
+----
+
+### Fullstack Web Developer - [Godjango Dev](https://www.godjango.dev/)
+
+| Project               | Description                  | Role                | URL                                       |
+| --------------------- | ---------------------------- | ------------------- | ----------------------------------------- |
+| Sherklock Tracking    | Tracking system              | Fullstack developer | --- |
+| E-Commerce Restaurant | Restaurant custom e-commerce | Fullstack developer | ---
