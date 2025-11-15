@@ -94,6 +94,18 @@ I'm a **Telecommunications and Electronics Engineer** turned **self-taught Full-
 
 ## 💼 Professional Experience
 
+### ⚙️ Senior Backend PHP Developer @ [Kimia](https://kimiagroup.com)
+
+**Sr PHP Developer** working on the **leaploot.com** project. Specialized in developing scalable and efficient backend systems using technologies like **PHP** and modern frameworks. Focused on optimization, security, and strategic collaboration to deliver robust and reliable systems.
+
+#### 📌 Key Projects
+
+| Project        | Description                                                              | Role              | Link                  |
+|----------------|--------------------------------------------------------------------------|-------------------|-----------------------|
+| **Leaploot**   | A modern platform for rewards and coupons.                              | Sr PHP Developer  | [🔗 Visit](https://leaploot.com) |
+
+---
+
 ### 🚀 Full-Stack Web Developer @ [Calaverita](https://calaverita.tech)
 
 Full-Stack Web Developer with proficiency in **Vue.js**, **React.js**, **Next.js**, **PHP**, **Node.js**, and **Laravel**. Designing and implementing dynamic user interfaces, developing scalable APIs, and managing the overall architecture of web applications.
